@@ -1,0 +1,12 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\2015910_1\2015910_1\bin\Debug\2015910_1.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\2015910_1\2015910_1\bin\Debug\2015910_1.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\2015910_1\2015910_1\bin\Debug\2015910_1.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\2015910_1\2015910_1\obj\Debug\2015910_1.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\2015910_1\2015910_1\obj\Debug\2015910_1.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\2015910_1\2015910_1\obj\Debug\2015910_1.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 1 - Comp Thinking, Into to VS IDE, C# Libraries\2015910_1\2015910_1\bin\Debug\2015910_1.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 1 - Comp Thinking, Into to VS IDE, C# Libraries\2015910_1\2015910_1\obj\Debug\2015910_1.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 1 - Comp Thinking, Into to VS IDE, C# Libraries\2015910_1\2015910_1\obj\Debug\2015910_1.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week1 - Comp Thinking, Into to VS IDE, C# Libraries\2015910_OddOrEven\2015910_1\bin\Debug\2015910_1.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week1 - Comp Thinking, Into to VS IDE, C# Libraries\2015910_OddOrEven\2015910_1\obj\Debug\2015910_1.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week1 - Comp Thinking, Into to VS IDE, C# Libraries\2015910_OddOrEven\2015910_1\obj\Debug\2015910_1.pdb
